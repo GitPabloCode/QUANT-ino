@@ -44,6 +44,7 @@ Genera visualizzazioni per:
 
 Livelli di Allerta del Traffico: Un grafico a dispersione con le situazioni di allerta e non.
 Distribuzione dei Cluster: Mostra il numero di occorrenze in ogni cluster.
+
 4. Analisi Statistica
 Effettua un'analisi di correlazione (Pearson) e ANOVA per verificare se le variabili differiscono tra i cluster.
 
