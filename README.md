@@ -1,7 +1,7 @@
 # QUANT-INO
 
 ## Trailer - Watch the video
-[![Watch the video](https://img.youtube.com/vi/NgQx6_UBVuQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=NgQx6_UBVuQ)
+[![Watch the video](https://img.youtube.com/vi/Q6rhuSUnB9Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q6rhuSUnB9Q)
 
 [Quantum K-means clustering method for detecting heart disease using quantum circuit approach](https://doi.org/10.1007/s00500-022-07200-x)
 
